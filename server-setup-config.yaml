@@ -65,7 +65,9 @@ install:
       - 492574 # My server is compatible
       - 238891 # Dynamic Surroundings
       - 354143 # Performant
-      #- 32274 # Jorneymap
+      - 250398 # Controlling
+      - 271740 # Toast Control
+      - 377109 # Tool Stats
 
   # The base path where the server should be installed to, ~ for current path
   baseInstallPath: ~
